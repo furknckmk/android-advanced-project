@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionSil"
+        android:title="Sil"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionDuzenle"
+        android:title="Duzenle"
+        app:showAsAction="always" />
+</menu>
