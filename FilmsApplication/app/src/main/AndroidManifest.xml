@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Filmler">
         <activity
+            android:name=".DetayActivity"
+            android:exported="true" />
+        <activity
             android:name=".FilmlerActivity"
             android:exported="true" />
         <activity
